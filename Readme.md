@@ -1,5 +1,5 @@
 DevStack is a set of scripts and utilities to quickly deploy an OpenStack cloud
-from git source trees.
+from git source trees. 
 
 Goals
 =====
